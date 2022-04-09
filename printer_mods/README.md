@@ -80,6 +80,7 @@ like so:
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 |CannedBass|[Trident Bed Fans](./CannedBass/Trident_Bed_Fans)| Bed fans for Trident |:x:|:grey_question:|:x:|:x:|:heavy_check_mark:|
+||[PITFT50 45-degree mount](./CannedBass/PITFT50_45_degree_mount)| Mount that puts the screen at a 45-degree angle for more vertical clearance |:x:|:grey_question:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | ChenTheDesignMaker | [Z Belt Clip](./ChenTheDesignMaker/Z_Belt_Clip) | Simple clip to keep extra Z belts clean and away from panels | :x: | :x: | :heavy_check_mark: | :x: | :x:|
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
@@ -117,6 +118,7 @@ like so:
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
 | |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
 |edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
+| elcrni | [V.24/Trident Spool Holder](./elcrni/V2.4-Trident-Spool-Holders) | Spool holder that mounts on top for "too close to the wall" printers | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 | |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Tridentified V2.4 Power Inlet](edwardyeeks/Tridentified_V2.4_Power_Inlet) |Trident style side power inlet for V2.4 using Z Drive Motor Tensioner Mod - By @Amarpal89 |:x: |:x: |:heavy_check_mark: |:x:|:x:|
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
@@ -167,6 +169,8 @@ like so:
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |:x:|
+| hobson318 | [Klipper Expander Mount](./Hobson318/Klipper_Expander_Mount) | Mounting brackets for the klipper expander using vhb tape or mounting screws | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Belt Tension Wrench](./Hobson318/Belt_Tension_Wrench) | Wrench for easier turning of the belt tension knobs on V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |hoschi| [FYSETC Spider DIN Rail Mount](./hoschi/FYSETC_Spider_DIN_Mount) | DIN rail mount for FYSETC Spider | :x: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |hymness1| [Quickdraw probe Voron Switchwire](./hymness1/Quickdraw_probe_Voron_Switchwire) | Detachable magnetic probe with docking system for VSW | :x: | :x: | :x: | :heavy_check_mark: |:x:|
 | | [10x11mm chain VSW](./hymness1/10x11mm_chain_VSW) | Printable and openable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |:grey_question:|
@@ -251,6 +255,7 @@ like so:
 |MrBean66| [SKR Pro DIN Mount](./MrBean66/SKR_PRO_Mount/) |Simple mod to mount the SKR Pro board from BTT to a DIN rails. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |MrDespair| [MiniAB Pinda Probe Mount](./MrDespair/MiniAB_Pinda/) |Replacement MiniAB Cowling to add a mount for a Pinda style probe. |:heavy_check_mark:|:x:|:x:|:x:|:x:|  
 |Mrgl-Mrgl| [LGX Lite Mount](./Mrgl-Mrgl/LGX_Lite_Mount/) | a mount for the LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
+|MSA| [Belt tension helper](./MSA/V0-Belt-tension-helper)| Belt tension helper for V0.1 |:heavy_check_mark:|:x:|:x:|:x:|
 |MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
