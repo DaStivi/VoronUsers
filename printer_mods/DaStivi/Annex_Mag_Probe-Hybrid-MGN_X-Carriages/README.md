@@ -6,23 +6,9 @@
 
 - The third version is for single MGN12 with Annex Probe Magnet slots
 
-
-
 ![Screenshots](./img/IMG-20210610-WA0001.jpg)
 
 ![Screenshots](./img/STL.jpg)
 
-I've also made ah simple Version of the bracket, initially even before the octopus limbs Version, as there where no bracketavailable as i got my Octopus board...
-![Screenshots](./img/simple_bracket_STL.jpg)
-
-
-There are also the SVG Files of the Octopus Logo i created, from what i used to extrude the Bracket in Fusion360
-![Screenshots](./img/octopus_inverted.svg)
-
-![Screenshots](./img/octopus.svg)
-
 #### STL:
-[Octopus limb bracket STL](./STL/Octopus_limbs_bracket.stl)
-
-[Simple bracket STL](./STL/Simple_Octopus_Bracket_v2.stl)
-
+STLs in corresponding subfolders!
